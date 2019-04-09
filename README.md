@@ -1,7 +1,7 @@
 # AI-repo #
 ===========
 
-This repository contains code for AI trading.
+This repository contains learning materials for AI trading.
 
 
 ## Authors ##
